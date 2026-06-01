@@ -1,5 +1,3 @@
-
-<!--
 💼 Suporte de TI | 🎓 Estudante de ADS | 💻 Desenvolvedor em formação
 
 Atualmente atuo na Lar Cooperativa Agroindustrial, prestando suporte técnico aos usuários, manutenção de equipamentos e apoio à infraestrutura de TI.
@@ -40,4 +38,3 @@ Além da área de suporte, venho estudando programação e construindo projetos 
 - Construir projetos reais
 - Aprimorar conhecimentos em infraestrutura
 - Contribuir para projetos open source
--->
